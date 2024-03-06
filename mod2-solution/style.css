@@ -6,7 +6,8 @@
 
 h1 {
 	text-align: center;
-	padding: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 h2 {
  	position: relative;
@@ -22,6 +23,7 @@ h2 {
 	border: 2px;
 	border-style: solid;
 	background: lightgray;
+	margin: 20px;
 }
 
 p {
@@ -39,9 +41,7 @@ p {
 #sushi {
 	background: yellow;
 }
-#menu {
-	margin:20px
-}
+
 
 @media (min-width: 992px) {
 	.col-bigly-4 {

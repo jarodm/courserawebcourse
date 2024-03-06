@@ -61,10 +61,3 @@ p {
 		width: 100%
 	}
 }
-
-@media (max-width: 767px) {
-	 .col-smoll-12 {
-		float: left;
-		width: 33.33%;
-	}
-}

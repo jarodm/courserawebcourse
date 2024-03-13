@@ -1,11 +1,14 @@
 
+* {
+	font-family: Roboto, Arial, Helvetica, sans-serif;
+}
 #navigation-header {
-	position: relative;
-  background: gray;
+position: relative;
+  background: #EBC49F;
   padding-bottom: 0px;
 }
 #chicken-section div {
-	background: gray;
+	background: #F1EF99;
 }
 #navigation-button {
   clear: both;
@@ -13,7 +16,7 @@
 	float: right;
 	top: 10px;
 	right: 10px;
-
+  background: #B0C5A4;
 }
 #collapsible-nav {
   border: solid 2px;
@@ -42,5 +45,7 @@
 }
 
 #collapsible-nav ul {
+  background: #B0C5A4;
 	list-style-type: none;
 }
+
